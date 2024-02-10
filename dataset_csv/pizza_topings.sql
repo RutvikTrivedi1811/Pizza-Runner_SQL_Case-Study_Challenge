@@ -1,0 +1,1 @@
+SELECT * FROM pizza_runner.pizza_toppings;
